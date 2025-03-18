@@ -1,0 +1,52 @@
+.container {
+  height: 100vh;
+  background-color: black;
+  background-size: cover;
+}
+
+.heading {
+  color: white;
+  text-align: center;
+  font-weight: bold;
+  font-style: italic;
+  font-size: larger;
+}
+
+.image {
+  width: 480px;
+}
+
+.paragraph {
+  color: white;
+  text-align: center;
+  font-weight: 500;
+  font-size: 15px;
+}
+
+.para {
+  color: white;
+  text-align: center;
+}
+
+.button-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  gap: 20px;
+  margin-right: 10px;
+}
+
+.button {
+  background-color: blue;
+  color: white;
+  border-color: none;
+  padding: 10px;
+}
+
+.buttons {
+  background-color: blue;
+  color: white;
+  border-color: none;
+  padding: 10px;
+}
